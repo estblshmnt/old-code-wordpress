@@ -1,0 +1,167 @@
+body {
+	text-align: center;
+	font-family: "clavo", serif;
+	font-weight: 400;
+
+
+}
+
+
+
+#container {
+	position: relative;
+	width: 1260px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+#definition {
+	width: 425px;
+	height: 170px;
+	margin-left: 315px;
+	margin-top: 65px;
+	margin-bottom: 40px;
+}
+
+#definition h2{
+	font-size: 27px; 
+}
+
+
+#definition p {
+	font-family: "abril-text", serif;
+	font-size: 15px;
+	line-height: 17px;
+}
+
+#definition p span.italic {
+	font-family: "abril-text", serif;
+	font-style: italic;
+	}
+
+#definition p.pronunciation {
+	font-size: 20px;
+	}
+
+#container h1 {
+	font-size: 34px;
+	padding: 0px 10px;	
+	font-family: "clavo", serif;
+	font-weight: 400;
+	line-height: 40px;	
+}
+
+#left {
+	width: 800px;
+	margin-left: 165px;	
+}
+
+.white {
+	color: #fff;
+	
+}
+
+#logo {
+	position: relative;
+	top: -50px;
+	margin-left: 285px;
+	width: 700px;
+	height: 195px;
+	background-image: url('establishment.png');
+	background-size: 700px 195px;
+    background-repeat: no-repeat;	
+}
+
+
+#right {
+	position: relative;
+	top: -60px;
+	width: 805px;
+	margin: 0px;
+	margin-left: 520px;
+}
+
+#right h1 {
+	margin: 0px;
+}
+
+span.highlight {
+	height: 70px;
+	background-image: linear-gradient(bottom, #7ff7b8 50%, #fff 50%);
+	background-image: -o-linear-gradient(bottom, #7ff7b8 50%, #fff 50%);
+	background-image: -moz-linear-gradient(bottom, #7ff7b8 50%, #fff 50%);
+	background-image: -webkit-linear-gradient(bottom, #7ff7b8 50%, #fff 50%);
+	background-image: -ms-linear-gradient(bottom, #7ff7b8 50%, #fff 50%); background-size: 1px 45px; background-repeat: contain;
+}
+
+.bold {	
+	font-family: "clavo", serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#mc_embed_signup {
+	position: relative;
+	clear: both;
+	width: 675px;
+	margin: 0px;
+	margin-left: 520px;
+ 	top: -20px; 
+	z-index: 10;
+}
+
+#mce-EMAIL {
+	width: 270px;
+	height: 50px;
+	float:left;
+	margin-left: 10px;
+	font-size: 18px;
+}
+
+#mc-embedded-subscribe {
+	width: 150px;
+	height: 56px;
+	background-color: #7ff7b8;
+	border: none;	
+	font-family: "tablet-gothic-semi-condensed", sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+	float: left;
+	margin-left: 5px;
+	z-index: 10;
+}
+
+#social {
+	position: relative;
+	float: right;
+
+}
+
+#social {
+	z-index: 0;
+	
+}
+
+#social ul {
+	width: 240px;
+	margin: none;
+	padding: none;
+	margin-top: 0px;
+	padding-top: 0px;
+/* 	margin-top: 30px; */
+	
+}
+
+#social ul li {
+	display: inline;
+	margin-left: 25px;
+	padding-bottom: 5px;	
+}
+
+#social ul li.left {
+/* 	margin-left: 50px; */
+}
+#social ul li img {
+	width: 20px;
+	height: 20px;
+}
